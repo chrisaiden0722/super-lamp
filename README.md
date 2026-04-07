@@ -1,3 +1,7 @@
-#wa ad'uǰu5uyuuuuj super-lamp
-As
-https://github.com/chrisaiden0722/super-lamp.git
+
+ ' "access_token": "accesstoken",
+  "expires_in": "28800",
+  "refresh_token": "r1.refreshme",
+  "refresh_token_expires_in": "15811200",
+  "scope": "",
+  "token_type": "bearer,'
